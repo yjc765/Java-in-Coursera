@@ -23,9 +23,9 @@
 hs_err_pid*
 
 # folders
-*/nc_weather/
-*/us_babynames_by_year/
-*/week3/*/data/
-*/week4/*/data/
+**/nc_weather/
+**/us_babynames_by_year/
+**/week3/**/data/
+**/week4/**/data/
 
 
