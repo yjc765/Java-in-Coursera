@@ -23,7 +23,9 @@
 hs_err_pid*
 
 # folders
-UnfoldMap/
-zips/
+*/nc_weather/
+*/us_babynames_by_year/
+*/week3/*/data/
+*/week4/*/data/
 
 
